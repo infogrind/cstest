@@ -1,0 +1,4 @@
+To run as conscripted application:
+
+Start sbt, then type
+    csRun cstest <args>

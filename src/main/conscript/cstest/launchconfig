@@ -1,0 +1,12 @@
+[app]
+  version: 0.0.1
+  org: ch.hotstuff
+  name: cstest
+  class: ch.hotstuff.cstest.HelloWorld
+[scala]
+  version: 2.11.5
+[repositories]
+  local
+  maven-central
+  sonatype-releases: https://oss.sonatype.org/content/repositories/releases/
+
