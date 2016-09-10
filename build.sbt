@@ -13,3 +13,5 @@ libraryDependencies ++= Seq(
 
 initialCommands := "import ch.hotstuff.cstest._"
 
+lazy val root = (project in file(".")).
+    enablePlugins(ConscriptPlugin).settings()
